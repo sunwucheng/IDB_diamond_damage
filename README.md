@@ -8,4 +8,4 @@
 
 ***Update 2023.03.10***
 
-> SEM files: https://doi.org/10.5281/zenodo.7714421 (Open Accessed on Zenodo)
+> SEM files: https://doi.org/10.5281/zenodo.7714421
